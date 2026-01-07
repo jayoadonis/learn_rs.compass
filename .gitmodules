@@ -1,0 +1,3 @@
+[submodule "x00_beginner"]
+	path = x00_beginner
+	url = https://github.com/jayoadonis/learn_rs.compass.x00_beginner.git
