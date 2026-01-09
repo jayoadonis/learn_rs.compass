@@ -1,4 +1,4 @@
-# learn_rs.compass <span id="">![Rust Project](https://img.shields.io/badge/RUST-gray?logo=rust&style=for-the-badge&logoColor=orange)</span>
+# learn_rs.compass <span id="">![Rust Project](https://img.shields.io/badge/RUST_PROJECT-gray?logo=rust&style=for-the-badge&logoColor=orange)</span>
 
 <span id="license" style="display:flex; flex-direction:row; gap:1rem; justify-content:start;">[![License: GPL v3](https://img.shields.io/badge/LICENSE-GPL_v3-blue?logo=gnu&style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
 [![License: AGPL v3](https://img.shields.io/badge/LICENSE-AGPL_v3-blue?logo=gnu&style=for-the-badge)](https://www.gnu.org/licenses/agpl-3.0)</span>
